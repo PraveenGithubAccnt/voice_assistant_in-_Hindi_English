@@ -41,10 +41,10 @@ def takeCommand():
 	return lang  
 
 def open_en():
-    call(["python", "eng_va.py"])
+    call(["python", "english_module.py"])
 
 def open_hi():
-    call(["python", "hindi_va.py"])
+    call(["python", "hindi_module.py"])
    
 
 
