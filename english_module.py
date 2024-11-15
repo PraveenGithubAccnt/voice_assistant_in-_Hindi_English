@@ -112,7 +112,7 @@ if __name__ == '__main__':
                 say('Here you are going to google with your query')
                 kit.search(query)	
             
-            elif "who created you" in query or "made you" in query or "designed you" in query :
+            elif "who created you" in query or "made you" in query or "designed" in query :
                 say("i have been created by praveen , and the rest is a mystery")
 			
             elif "hi" in query or "hello" in query:
